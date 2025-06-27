@@ -29,5 +29,5 @@ Telegram-бот, который использует нейросетевые т
 ## 🚀 Установка
 1. Клонировать репозиторий:
 ```bash
-git clone https://github.com/ваш-ник/NostalgiaBot.git
+git clone https://github.com/banhanman/NostalgiaBot.git
 cd NostalgiaBot
